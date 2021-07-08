@@ -10,13 +10,16 @@ description: > # your text below (remove <br> elements if you don't need line br
   </p>
   
   <p align="justify">
-  I am currently pursuing a MSc. degree in Aerospace Engineering in the department of Control & Simulation at Delft University of Technology (<a href="https://cs.lr.tudelft.nl/">Website</a>).
+  I am currently pursuing a MSc. degree in Aerospace Engineering in the department of Control & Simulation at Delft University of Technology.
+  <br><br>
+
   At this very moment, I have started my MSc. graduate thesis at the MAVLab research center where I focus on intelligent multi-modal locomotion of UAVs. For this specific reason, I have created this minimalistic porfolio / blog where I will (try) to actively keep up a journal of my progression and academic findings.
-  In addition, I will also use this portfolio to write any journeys of my futures endeavours in the exciting field of UAVs, Control Theory and many more! 
 
   <br><br>
-  Aside from my academic interests, 
+
+  In addition, I will also use this portfolio to write any journeys of my futures endeavours in the exciting field of UAVs, Control Theory and many more! 
   <br><br>
+
   </p>
   
 theme: jekyll-theme-minimal
