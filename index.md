@@ -27,7 +27,7 @@
 ---
 --> 
 
-# Portfolio
+# Portfolio | Blogs 
 ---
 ## Natural Language Processing
 
